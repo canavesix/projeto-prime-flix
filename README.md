@@ -19,7 +19,7 @@ Este projeto é o meu primeiro contato com ReactJS, LocalStorage e consumo de AP
 
 - [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/) : Gerenciador de pacotes JavaScript rápido, confiável e seguro.
 
-Você pode adicionar este badge ao seu README para indicar o uso do Yarn no seu projeto.: Gerenciador de pacotes JavaScript rápido, confiável e seguro.
+
 
 # Caso queira testar na sua máquina, siga o passo a passo 👇 :
 
